@@ -1,0 +1,484 @@
+{
+  "fund_positions": [
+    {
+      "id": 1,
+      "Sector": "Morgan Stanley Emerging Markets Domestic Debt Fund, Inc.",
+      "usd_exposure": 58398,
+      "date": "2020-06-04T11:47:51Z"
+    },
+    {
+      "id": 2,
+      "Sector": "Digital Realty Trust, Inc.",
+      "usd_exposure": null,
+      "date": "2020-06-10T02:04:59Z"
+    },
+    {
+      "id": 3,
+      "Sector": "Omega Flex, Inc.",
+      "usd_exposure": 98391,
+      "date": "2020-10-31T11:32:56Z"
+    },
+    {
+      "id": 23,
+      "Sector": "Orbital ATK, Inc.",
+      "usd_exposure": 51147,
+      "date": null
+    },
+    {
+      "id": 24,
+      "Sector": "Ubiquiti Networks, Inc.",
+      "usd_exposure": 25822,
+      "date": "2020-08-30T17:10:20Z"
+    },
+    {
+      "id": 25,
+      "Sector": "Global Brass and Copper Holdings, Inc.",
+      "usd_exposure": 12740,
+      "date": "2019-12-27T09:46:07Z"
+    },
+    {
+      "id": 26,
+      "Sector": "Lamb Weston Holdings, Inc.",
+      "usd_exposure": 34604,
+      "date": "2020-05-11T07:34:26Z"
+    },
+    {
+      "id": 27,
+      "Sector": "",
+      "usd_exposure": 38125,
+      "date": "2020-07-13T03:08:49Z"
+    },
+    {
+      "id": 28,
+      "Sector": "City Office REIT, Inc.",
+      "usd_exposure": 99434,
+      "date": "2020-08-23T08:18:42Z"
+    },
+    {
+      "id": 29,
+      "Sector": "Apache Corporation",
+      "usd_exposure": 54917,
+      "date": "2020-02-11T02:28:59Z"
+    },
+    {
+      "id": 30,
+      "Sector": "DDR Corp.",
+      "usd_exposure": 78152,
+      "date": "2020-03-09T09:00:05Z"
+    },
+    {
+      "id": 311,
+      "Sector": "",
+      "usd_exposure": null,
+      "date": ""
+    },
+    {
+      "id": 313,
+      "Sector": "",
+      "usd_exposure": null,
+      "date": ""
+    },
+    {
+      "id": 312,
+      "Sector": "",
+      "usd_exposure": null,
+      "date": ""
+    },
+    {
+      "id": 32,
+      "Sector": "Redwood Trust, Inc.",
+      "usd_exposure": 57294,
+      "date": "2020-01-04T06:04:52Z"
+    },
+    {
+      "id": 33,
+      "Sector": "DelMar Pharmaceuticals, Inc.",
+      "usd_exposure": 45343,
+      "date": "2020-07-15T14:19:30Z"
+    },
+    {
+      "id": 34,
+      "Sector": "NBT Bancorp Inc.",
+      "usd_exposure": null,
+      "date": "2020-11-05T18:45:22Z"
+    },
+    {
+      "id": 35,
+      "Sector": "SenesTech, Inc.",
+      "usd_exposure": 35208,
+      "date": "2020-12-15T19:32:32Z"
+    },
+    {
+      "id": 36,
+      "Sector": "AveXis, Inc.",
+      "usd_exposure": 36755,
+      "date": "2020-12-20T05:10:57Z"
+    },
+    {
+      "id": 37,
+      "Sector": "Double Eagle Acquisition Corp.",
+      "usd_exposure": 91620,
+      "date": "2020-02-02T20:18:46Z"
+    },
+    {
+      "id": 38,
+      "Sector": "Halozyme Therapeutics, Inc.",
+      "usd_exposure": 10938,
+      "date": "2020-10-27T15:31:10Z"
+    },
+    {
+      "id": 39,
+      "Sector": "Public Storage",
+      "usd_exposure": 49981,
+      "date": "2020-05-21T00:21:10Z"
+    },
+    {
+      "id": 40,
+      "Sector": "Scholastic Corporation",
+      "usd_exposure": 90660,
+      "date": "2020-09-03T15:37:20Z"
+    },
+    {
+      "id": 41,
+      "Sector": "Social Reality, Inc.",
+      "usd_exposure": 48142,
+      "date": "2020-01-15T23:52:08Z"
+    },
+    {
+      "id": 42,
+      "Sector": "BiondVax Pharmaceuticals Ltd.",
+      "usd_exposure": 82216,
+      "date": "2020-07-21T06:02:32Z"
+    },
+    {
+      "id": 43,
+      "Sector": "MAM Software Group, Inc.",
+      "usd_exposure": 35522,
+      "date": "2020-05-09T18:26:09Z"
+    },
+    {
+      "id": 44,
+      "Sector": "Comp En De Mn Cemig ADS",
+      "usd_exposure": 27439,
+      "date": "2020-08-28T16:09:35Z"
+    },
+    {
+      "id": 45,
+      "Sector": "First Trust Low Beta Income ETF",
+      "usd_exposure": 17894,
+      "date": "2020-03-04T22:06:28Z"
+    },
+    {
+      "id": 46,
+      "Sector": "REV Group, Inc.",
+      "usd_exposure": 61119,
+      "date": "2020-02-06T23:37:20Z"
+    },
+    {
+      "id": 47,
+      "Sector": "Global Partner Acquisition Corp.",
+      "usd_exposure": 77618,
+      "date": "2020-10-04T20:35:10Z"
+    },
+    {
+      "id": 48,
+      "Sector": null,
+      "usd_exposure": 31711,
+      "date": "2020-08-05T21:42:36Z"
+    },
+    {
+      "id": 49,
+      "Sector": "Arconic Inc.",
+      "usd_exposure": 27929,
+      "date": "2020-08-16T08:47:59Z"
+    },
+    {
+      "id": 50,
+      "Sector": "Infinera Corporation",
+      "usd_exposure": 50995,
+      "date": ""
+    },
+    {
+      "id": 51,
+      "Sector": "j2 Global, Inc.",
+      "usd_exposure": 80671,
+      "date": ""
+    },
+    {
+      "id": 52,
+      "Sector": "Blackrock Municipal Income Quality Trust",
+      "usd_exposure": 62221,
+      "date": "2020-11-26T08:17:06Z"
+    },
+    {
+      "id": 53,
+      "Sector": "Bankrate, Inc.",
+      "usd_exposure": 59682,
+      "date": "2020-01-30T03:26:26Z"
+    },
+    {
+      "id": 54,
+      "Sector": "Appliance Recycling Centers of America, Inc.",
+      "usd_exposure": 17535,
+      "date": "2020-01-28T09:40:54Z"
+    },
+    {
+      "id": 55,
+      "Sector": "Hilltop Holdings Inc.",
+      "usd_exposure": 68126,
+      "date": "2020-12-10T15:13:29Z"
+    },
+    {
+      "id": 56,
+      "Sector": "American Superconductor Corporation",
+      "usd_exposure": 33817,
+      "date": "2020-06-02T23:59:42Z"
+    },
+    {
+      "id": 57,
+      "Sector": "Popular, Inc.",
+      "usd_exposure": 46836,
+      "date": "2020-05-29T11:32:05Z"
+    },
+    {
+      "id": 58,
+      "Sector": "REGENXBIO Inc.",
+      "usd_exposure": 89981,
+      "date": "2020-07-01T14:04:11Z"
+    },
+    {
+      "id": 59,
+      "Sector": "Hersha Hospitality Trust",
+      "usd_exposure": 53364,
+      "date": "2020-04-13T18:32:09Z"
+    },
+    {
+      "id": 60,
+      "Sector": "Louisiana-Pacific Corporation",
+      "usd_exposure": 94489,
+      "date": null
+    },
+    {
+      "id": 61,
+      "Sector": "Atkore International Group Inc.",
+      "usd_exposure": 31289,
+      "date": "2020-02-01T07:41:04Z"
+    },
+    {
+      "id": 62,
+      "Sector": "REGENXBIO Inc.",
+      "usd_exposure": 99045,
+      "date": "2020-11-15T21:48:54Z"
+    },
+    {
+      "id": 63,
+      "Sector": "GenMark Diagnostics, Inc.",
+      "usd_exposure": 61299,
+      "date": "2020-04-29T17:03:42Z"
+    },
+    {
+      "id": 64,
+      "Sector": "JMP Group LLC",
+      "usd_exposure": 34249,
+      "date": "2020-10-21T21:38:20Z"
+    },
+    {
+      "id": 65,
+      "Sector": "Mercer International Inc.",
+      "usd_exposure": null,
+      "date": "2020-06-08T13:40:13Z"
+    },
+    {
+      "id": 66,
+      "Sector": "NextEra Energy, Inc.",
+      "usd_exposure": 14085,
+      "date": "2020-04-13T14:05:20Z"
+    },
+    {
+      "id": 67,
+      "Sector": "RiceBran Technologies",
+      "usd_exposure": null,
+      "date": "2020-01-19T19:02:48Z"
+    },
+    {
+      "id": 68,
+      "Sector": "Lehman ABS Corporation",
+      "usd_exposure": 69415,
+      "date": "2020-01-05T01:23:50Z"
+    },
+    {
+      "id": 69,
+      "Sector": "Colliers International Group Inc. ",
+      "usd_exposure": 95279,
+      "date": "2020-08-06T16:37:08Z"
+    },
+    {
+      "id": 70,
+      "Sector": "JM Global Holding Company",
+      "usd_exposure": 24489,
+      "date": "2020-12-22T12:35:23Z"
+    },
+    {
+      "id": 71,
+      "Sector": "Synthetic Fixed-Income Securities, Inc.",
+      "usd_exposure": 67433,
+      "date": "2020-01-17T22:42:19Z"
+    },
+    {
+      "id": 72,
+      "Sector": "Diffusion Pharmaceuticals Inc.",
+      "usd_exposure": 73774,
+      "date": "2020-09-23T03:52:11Z"
+    },
+    {
+      "id": 73,
+      "Sector": "Amarin Corporation plc",
+      "usd_exposure": 28592,
+      "date": "2020-08-17T07:45:27Z"
+    },
+    {
+      "id": 74,
+      "Sector": "Sonoma Pharmaceuticals, Inc.",
+      "usd_exposure": 52558,
+      "date": "2020-08-08T05:00:44Z"
+    },
+    {
+      "id": 75,
+      "Sector": "Principal Real Estate Income Fund",
+      "usd_exposure": 42311,
+      "date": "2020-12-06T06:17:16Z"
+    },
+    {
+      "id": 76,
+      "Sector": "Domino's Pizza Inc",
+      "usd_exposure": 66166,
+      "date": "2020-02-17T19:10:31Z"
+    },
+    {
+      "id": 77,
+      "Sector": "Vornado Realty Trust",
+      "usd_exposure": 91520,
+      "date": "2020-08-04T22:24:05Z"
+    },
+    {
+      "id": 78,
+      "Sector": "United Security Bancshares",
+      "usd_exposure": 33484,
+      "date": "2020-10-11T04:25:25Z"
+    },
+    {
+      "id": 79,
+      "Sector": "EQT GP Holdings, LP",
+      "usd_exposure": 61380,
+      "date": "2020-03-25T11:35:57Z"
+    },
+    {
+      "id": 80,
+      "Sector": "EXFO Inc",
+      "usd_exposure": null,
+      "date": "2020-05-03T08:39:01Z"
+    },
+    {
+      "id": 81,
+      "Sector": "TE Connectivity Ltd.",
+      "usd_exposure": 25925,
+      "date": "2020-01-17T03:44:52Z"
+    },
+    {
+      "id": 82,
+      "Sector": "AbbVie Inc.",
+      "usd_exposure": 17330,
+      "date": "2020-12-16T22:18:30Z"
+    },
+    {
+      "id": 83,
+      "Sector": "Anadarko Petroleum Corporation",
+      "usd_exposure": null,
+      "date": "2020-10-25T10:52:45Z"
+    },
+    {
+      "id": 84,
+      "Sector": "Dillard's, Inc.",
+      "usd_exposure": 75514,
+      "date": "2020-07-27T20:50:42Z"
+    },
+    {
+      "id": 85,
+      "Sector": "Vertex Pharmaceuticals Incorporated",
+      "usd_exposure": 26744,
+      "date": "2020-05-28T23:14:10Z"
+    },
+    {
+      "id": 86,
+      "Sector": "Atomera Incorporated",
+      "usd_exposure": null,
+      "date": "2020-01-20T19:10:48Z"
+    },
+    {
+      "id": 87,
+      "Sector": "Comp En De Mn Cemig ADS",
+      "usd_exposure": 67807,
+      "date": "2020-09-21T04:35:42Z"
+    },
+    {
+      "id": 88,
+      "Sector": "Yingli Green Energy Holding Company Limited",
+      "usd_exposure": 85119,
+      "date": "2020-10-19T19:31:47Z"
+    },
+    {
+      "id": 89,
+      "Sector": "Beacon Roofing Supply, Inc.",
+      "usd_exposure": 86078,
+      "date": "2020-01-01T11:08:28Z"
+    },
+    {
+      "id": 90,
+      "Sector": "Meritage Corporation",
+      "usd_exposure": 48800,
+      "date": "2020-07-31T19:07:36Z"
+    },
+    {
+      "id": 91,
+      "Sector": "Powell Industries, Inc.",
+      "usd_exposure": 89927,
+      "date": "2020-03-19T04:12:42Z"
+    },
+    {
+      "id": 92,
+      "Sector": "Blackstone GSO Senior Floating Rate Term Fund",
+      "usd_exposure": 70760,
+      "date": "2020-06-13T18:09:16Z"
+    },
+    {
+      "id": 93,
+      "Sector": "Ashford Hospitality Trust Inc",
+      "usd_exposure": 51601,
+      "date": "2020-05-13T07:33:26Z"
+    },
+    {
+      "id": 94,
+      "Sector": "PennyMac Mortgage Investment Trust",
+      "usd_exposure": 17406,
+      "date": "2020-06-02T06:55:21Z"
+    },
+    {
+      "id": 95,
+      "Sector": "Advent Claymore Convertible Securities and Income Fund II",
+      "usd_exposure": 40281,
+      "date": "2020-11-13T13:31:52Z"
+    },
+    {
+      "id": 99,
+      "Sector": "Bob Evans Farms, Inc.",
+      "usd_exposure": 80959,
+      "date": "2020-02-23T16:50:57Z"
+    },
+    {
+      "id": 100,
+      "Sector": "New York Community Bancorp, Inc.",
+      "usd_exposure": 52990,
+      "date": "2020-05-31T13:39:13Z"
+    }
+  ]
+}
